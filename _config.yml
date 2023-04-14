@@ -2,16 +2,16 @@ url: https://y7kim.github.io
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: KWON's IT Portfolio
+email: prince5390@gmail.com
+description: "권혁원의 it 포트폴리오"
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: 권혁원
   pic: 1
-  position: Lead Designer
+  position: Development
   social:
     - title: twitter
       url: #
