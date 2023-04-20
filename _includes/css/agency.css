@@ -206,6 +206,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .nav li a {
+    text-align: center;
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 400;
