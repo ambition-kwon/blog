@@ -11,7 +11,7 @@ description: "권혁원의 it 포트폴리오"
 people:
 - name: 권혁원
   pic: 1
-  position: Development
+  position: FrontEnd Developer
   social:
     - title: twitter
       url: #
@@ -20,9 +20,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: Larry Parker
+- name: 안예원
   pic: 2
-  position: Lead Marketer
+  position: BackEnd Developer
   social:
     - title: twitter
       url: #
@@ -31,9 +31,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Diana Petersen
+- name: 김한율
   pic: 3
-  position: Lead Developer
+  position: BackEnd Developer & Designer
   social:
     - title: twitter
       url: #
