@@ -1,15 +1,14 @@
 ---
-title: Escape
-subtitle: Website Design
+title: 하이스쿨 아두이노
+subtitle: Project
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
+date: 2015-10-30
+img: arduino.png
+thumbnail: arduino-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+project-date: October 2015
+client: KWON HYEOKWON
+category: Project
+discription: 고등학생시절 뜻이 맞는 학우들간 2년 여간 노력하여 출판한 아두이노 관련 서적입니다. 소프트웨어보단 하드웨어에 집중하여 집필한 도서이기 때문에 '프로그래밍을 했다'라고 하기엔 조금 부끄러운감이 없지않아 있으나 여려명이서 공동된 목표를 향해 나아갔으며 이를 성공적으로 마무리 했다는 경험이 제겐 지금까지도 굉장히 뜻 깊은 경험이었습니다. 
 ---
