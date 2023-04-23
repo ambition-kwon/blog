@@ -10,6 +10,6 @@ alt: image-alt
 project-date: November 2018
 client: KWON HYEOKWON
 category: Certificate
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: 군에서 복무하던 시절 아무 자격증이나 취득하면 휴가를 준다는 감언이설에 준비했던 자격증입니다. 당시엔 모든 개념이 생소한 내용이고, '이걸 어디에 써먹지?'라는 생각이 앞섰으나 개발자의 꿈을 키우고 나서 생각해보니 전부 버릴 것이 없는 주요한 내용이었습니다.
 
 ---
