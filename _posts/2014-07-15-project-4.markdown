@@ -1,5 +1,5 @@
 ---
-title: 효과적인 무인 택배 통합 관리 시스템
+title: 무인 택배 통합 관리 시스템
 subtitle: Project
 layout: default
 modal-id: 4
